@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BD_Lab5</string>
+    <string name="key">Ключ</string>
+    <string name="value">Значение</string>
+    <string name="get_value">Получить значение</string>
+    <string name="save_value">Сохранить</string>
+</resources>
